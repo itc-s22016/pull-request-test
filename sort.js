@@ -1,2 +1,2 @@
-var number = [19, 3, 81, 1, 24, 21];
-console.log(number);
+サル先生のGitコマンド
+add 変更をインデックスに登録する
